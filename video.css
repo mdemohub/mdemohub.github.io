@@ -11,14 +11,3 @@ body {
     justify-content: center;
     align-content: center;
 }
-
-body:after {
-    content: '';
-    height: 100%;
-    opacity: .4;
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 100%;
-    z-index: 0;
-}
