@@ -18,5 +18,13 @@
 
     <video loop autoplay controls="true" width='100%' height='auto' src='test.mp4' type='video/mp4'></video>
 </body>
+<script>
+    var video = document.querySelector('video');
 
+    function play(e) {
+        video.play();
+    }
+
+    video.addEventListener('mouseclick', play);
+</script>
 </html>
