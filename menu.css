@@ -3,8 +3,9 @@
     left: 25px;
     top: 25px;
     z-index: 500;
-}
-
-.back-button img {
-    width: 75px;
+    color: white;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    padding: 8px 20px;
+    border-radius: 20px;
+    border: 1px solid white;
 }
