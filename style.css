@@ -21,7 +21,7 @@ body:after {
     z-index: 0;
 }
 
-@media screen and (orientation: portrait){
+@media screen and (orientation: landscape){
     html {
         -webkit-transform: translateY(-100%) rotate(90deg);    
         transform: translateY(-100%) rotate(90deg);
