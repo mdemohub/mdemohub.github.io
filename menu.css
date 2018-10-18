@@ -15,5 +15,9 @@
     padding: 8px 25px !important;
     border-radius: 20px !important;
     border: 1px solid white !important;
-    text-decration: none;
+    text-decoration: none;
+}
+
+.back-button:hover, .back-link:hover {
+    text-decoration: none;
 }
