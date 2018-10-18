@@ -6,7 +6,7 @@
     color: white !important;
     font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
     font-size: 24px !important;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 1.5 !important;
     text-decoration: none;
 }
@@ -14,6 +14,6 @@
 .back-button {
     padding: 8px 25px !important;
     border-radius: 20px !important;
-    border: 2px solid white !important;
-    text-decoration: none;
+    border: 1px solid white !important;
+    text-decration: none;
 }
