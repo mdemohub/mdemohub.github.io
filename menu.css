@@ -1,0 +1,23 @@
+.back-link {
+    position: absolute !important;
+    left: 35px !important;
+    top: 35px !important;
+    z-index: 500 !important;
+    color: white !important;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif !important;
+    font-size: 24px !important;
+    font-weight: 500;
+    line-height: 1.5 !important;
+    text-decoration: none;
+}
+
+.back-button {
+    padding: 8px 25px !important;
+    border-radius: 20px !important;
+    border: 1px solid white !important;
+    text-decoration: none;
+}
+
+.back-button:hover, .back-link:hover {
+    text-decoration: none;
+}
