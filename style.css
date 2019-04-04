@@ -31,7 +31,7 @@ h1 {
     background-size: cover;
     background-position: center;
     display: flex;
-    height: 240px;
+    height: 260px;
     justify-content: center;
     width: 100%;
 }
@@ -59,7 +59,7 @@ h1 {
 .pod__industry {
     color: #130A59;
     font-family: 'Open-Sans', arial, sans-serif;
-    font-size: 30px;
+    font-size: 36px;
     font-weight: 600;
     line-height: 1.3;
     margin: 0 40px;
@@ -76,7 +76,7 @@ h1 {
     display: flex;
     flex-basis: calc(50% - 50px);
     flex-direction: column;
-    height: 220px;
+    height: 380px;
     justify-content: center;
     text-decoration: none;
     text-align: center;
